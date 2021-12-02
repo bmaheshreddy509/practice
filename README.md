@@ -1,5 +1,6 @@
 # practice
 Trail
 
-echo `date`
+echo `date`;
 echo " This is a linux machine"
+echo "1"
